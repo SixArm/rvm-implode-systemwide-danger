@@ -1,4 +1,4 @@
-Ruby Version Manager (RVM) implode systemwide. THIS IS DANGEROUS.
+# Ruby Version Manager (RVM) implode systemwide. THIS IS DANGEROUS.
 
 This script tries to eliminate RVM everywhere on the system:
 
