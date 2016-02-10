@@ -27,7 +27,7 @@ You can delete the lines that you don't need, if you like.
 
 If rvm implode gives errors like this loop:
 
-   line 72: /usr/local/rvm/scripts/rvm: No such file or directory
+    line 72: /usr/local/rvm/scripts/rvm: No such file or directory
 
 then the rvm setup is bonked and we can delete the rvm script
 by hand then run this script again; rvm implode won't work,
