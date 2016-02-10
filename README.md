@@ -43,6 +43,6 @@ any lingering rvm files and reporting any remainders.
   * Command: rvm-implode-systemwide-danger
   * Version: 2.0.0
   * Created: 2011-08-22
-  * Updated: 2015-01-25
+  * Updated: 2016-02-09
   * License: GPL
   * Contact: Joel Parker Henderson (joel@joelparkerhenderson.com)
