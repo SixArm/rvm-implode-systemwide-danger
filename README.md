@@ -10,8 +10,11 @@ This script tries to eliminate RVM everywhere on the system:
 
 ## Use at your own risk
 
-This script is not advanced: it does not do any error checking,
-does not ensure anything worked, and does not guarantee success.
+This script is not advanced:
+
+  * it does not do any error checking
+  * it does not ensure anything worked
+  * it does not guarantee success
 
 If it doesn't work for you, please let us know and we'll improve it.
 
