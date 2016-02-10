@@ -1,8 +1,5 @@
-#!/bin/bash
-
-out () { printf %s\\n "$*" ; }
-
-##
+#!/bin/sh
+#
 # Uninstall RVM (Ruby Version Manager) systemwide. THIS IS DANGEROUS.
 #
 # This script tries to eliminate RVM everywhere on the system:
