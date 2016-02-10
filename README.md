@@ -1,6 +1,7 @@
 # Ruby Version Manager (RVM) implode systemwide. THIS IS DANGEROUS.
 
-This script tries to eliminate RVM everywhere on the system:
+This script tries to eliminate RVM everywhere on the system,
+by doing these steps:
 
   * Run `rvm implode`
   * Delete all known RVM-related files everywhere on the system.
